@@ -1,5 +1,21 @@
-
 # Welcome to your project
+
+## 🧬 Project Description
+
+**Medical Technology – AI-Powered Healthcare**
+
+This application leverages cutting-edge AI and blockchain technologies to deliver intelligent healthcare solutions:
+
+- **AI Diagnosis**  
+  Perform advanced symptom analysis and receive AI-driven disease predictions.
+
+- **Secure Blockchain**  
+  Your medical data is encrypted, stored securely, and tamper-proof using blockchain technology.
+
+- **Treatment Tracking**  
+  Track your treatment progress, monitor outcomes, and access your complete medical history with ease.
+
+This platform is designed to enhance clinical decision-making, empower patients, and improve health outcomes through technology.
 
 ## Project info
 
