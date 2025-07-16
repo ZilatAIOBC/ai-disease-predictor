@@ -1,4 +1,4 @@
-# Welcome to your project
+# Welcome to AI Disease Predictor
 
 ## 🧬 Project Description
 
